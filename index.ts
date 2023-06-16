@@ -28,7 +28,7 @@ orbitControls.enableDamping = true
 orbitControls.minDistance = 5
 orbitControls.maxDistance = 15
 orbitControls.enablePan = false
-//orbitControls.maxPolarAngle = Math.PI / 2 - 0.05
+orbitControls.maxPolarAngle = Math.PI / 2 - 0.05
 orbitControls.update();
 
 // LIGHTS
